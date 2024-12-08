@@ -1,5 +1,12 @@
 # shameen_thesis
 
+
+CUSTOMER CHURN LIKELIHOOD PREDICTION FOR TELECOMMUNICATION SERVICES USING MACHINE LEARNING![image](https://github.com/user-attachments/assets/0137a0a0-d6b7-4d75-8ccc-7fe900b06cb0)
+
+
+
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
