@@ -5,8 +5,7 @@ CUSTOMER CHURN LIKELIHOOD PREDICTION FOR TELECOMMUNICATION SERVICES USING MACHIN
 
 
 
-
-
+# Load the dataset
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
@@ -17,7 +16,7 @@ from sklearn.metrics import classification_report, roc_auc_score
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the dataset
+
 file_path = '/content/Telco-churn-ml.csv'
 data = pd.read_csv(file_path)
 
