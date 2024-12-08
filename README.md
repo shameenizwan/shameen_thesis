@@ -3,7 +3,12 @@
 
 CUSTOMER CHURN LIKELIHOOD PREDICTION FOR TELECOMMUNICATION SERVICES USING MACHINE LEARNING![image](https://github.com/user-attachments/assets/0137a0a0-d6b7-4d75-8ccc-7fe900b06cb0)
 
-
+1.3.2	Research Objectives
+The intention of this study is to predict customer churn in telecommunications industry. The specific objectives of study are:
+1.	To develop and compare machine learning models for predicting customer churn.
+2.	To identify and analyze various key features in predicting customer churn.
+3.	To provide valuable insights for telecommunication companies to reduce churn and improve customer retention.
+![image](https://github.com/user-attachments/assets/868101f7-3180-4d3f-b7fc-e06ea2104838)
 
 # Load the dataset
 import pandas as pd
